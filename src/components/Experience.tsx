@@ -63,7 +63,7 @@ const Experience = () => {
       title: "Java Full Stack Developer",
       company: "Cognizant Technology Solutions",
       location: "Hyderabad, India",
-      period: "Aug 2021 - Dec 2023",
+      period: "Mar 2021 - Dec 2023",
       achievements: [
         "Built responsive UIs with React.js (v16–v18) and Hooks, boosting performance and receiving positive client feedback.",
         "Integrated REST APIs with Redux and Context API to enable scalable front-end data flow.",
@@ -88,7 +88,7 @@ const Experience = () => {
       title: "Java Developer",
       company: "Kotak Mahindra Bank",
       location: "Chennai, India",
-      period: "Jun 2018 - Jul 2021",
+      period: "Jun 2018 - Feb 2021",
       achievements: [
         "Built high-performance Hibernate DAO layer for IBM DB2, streamlining financial data access.",
         "Refactored legacy monoliths to Spring Boot microservices and REST, cutting downtime by 30 %.",
